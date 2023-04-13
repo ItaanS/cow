@@ -1,0 +1,17 @@
+{
+    "name": "itaan-sama/phpadvance",
+    "autoload": {
+        "psr-4": {
+            "ItaanSama\\Phpadvance\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ItaanS",
+            "email": "itaansilva00@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "^1.1"
+    }
+}
